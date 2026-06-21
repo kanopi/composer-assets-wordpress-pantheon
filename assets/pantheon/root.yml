@@ -1,7 +1,7 @@
 # pantheon.yml — Pantheon platform config (WordPress, docroot at repo root).
 #
 # Scaffolded by composer-assets when there is NO web/ docroot (the web-docroot
-# variant, pantheon.web.yml, is used otherwise). Seeded once (overwrite:false) —
+# variant, web.yml, is used otherwise). Seeded once (overwrite:false) —
 # owned by the site. If your project ALREADY has a pantheon.yml, the seed is
 # skipped: merge the keys you need (especially `workflows`) in by hand.
 #
